@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TSDMH252_ZHKVP1E2.2</string>
+    <string name="p1titulo">ingreso de datos</string>
+    <string name="p1solicitanombre">ingrese su nombre</string>
+    <string name="hsolnombre">aqui tu nombre</string>
+    <string name="blsaludar">saludar</string>
+    <string name="p1titulo2">suma de 2 numeros</string>
+    <string name="lnumero1">ingresa el primer numero</string>
+    <string name="lnumero2">ingresa el segundo numero</string>
+    <string name="hlnumero1">aqui el primer numero</string>
+    <string name="hlnumero2">aqui el segundo numero</string>
+    <string name="blsumar"> suma numeros</string>
+    <string name="lresultado">resultado</string>
+
+
+
+</resources>
